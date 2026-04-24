@@ -63,14 +63,14 @@ Construction companies face challenges in:
 ---
 
 ## 📁 Project Structure
-construction-project-analytics/
-│
-├── construction_dataset.csv        # Raw dataset (1300 rows)
-├── analysis_queries.sql            # 5 SQL queries with Window Functions
-├── construction_project_analytics.py  # Python EDA & Visualizations
-├── Construction_Project_Analytics.pbix # Power BI Dashboard
-└── README.md                       # Project Documentation
----
+
+| File | Description |
+|------|-------------|
+| `construction_dataset.csv` | Raw dataset (1300 rows) |
+| `analysis_queries.sql` | 5 SQL queries with Window Functions |
+| `construction_project_analytics.py` | Python EDA & Visualizations |
+| `Construction_Project_Analytics.pbix` | Power BI Dashboard |
+| `README.md` | Project Documentation |
 
 ## 💡 Insights
 1. **Low Risk** tasks contribute 51% of total cost — highest budget allocation
